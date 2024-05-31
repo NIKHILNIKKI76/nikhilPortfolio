@@ -1026,7 +1026,9 @@ main {
   font-weight: var(--fw-300);
 }
 
-
+#downloadBtn{
+  color: var(--vegas-gold);
+}
 
 
 
